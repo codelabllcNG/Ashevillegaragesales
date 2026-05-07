@@ -1,0 +1,20 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /2phone-verification2
+Disallow: /404
+Disallow: /continue-to-verify-email
+Disallow: /continue-to-verify-phone
+Disallow: /verified
+Disallow: /cart/orders
+
+
+# Host
+Host: https://www.ashevillegaragesales.com
+
+# Sitemaps
+Sitemap: https://www.ashevillegaragesales.com/sitemap.xml
+

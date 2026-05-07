@@ -7,7 +7,8 @@ import { TimePicker } from "antd";
 import { setHours, getHours, setMinutes } from "date-fns";
 import "react-datepicker/dist/react-datepicker.css";
 import { registerLocale, setDefaultLocale } from "react-datepicker";
-import { es, en } from "date-fns/locale/es";
+import es from "date-fns/locale/es";
+import en from "date-fns/locale/en-US";
 registerLocale("es", es);
 registerLocale("en", en);
 
